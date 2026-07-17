@@ -1,28 +1,28 @@
 # Project-Neptune
 A model agnostic local cognitive architecture exploring persistent memory, reasoning, and emergent intelligence.
 
-**What is Neptune?**
+## **What is Neptune?**
 The core idea behind Neptune is that instead of having an AI rely solely on what it was trained on, we build its understanding of the world by simulating how a child learns. It constantly asks questions when it is unsure, connects new pieces of information with what it already knows, remembers what it has learned, and gradually develops its own worldview. That is what Project Neptune hopes to build.
 Rather than treating the language model as the finished intelligence, Neptune explores whether intelligence can emerge from the systems built around it.
 
-**Why does Neptune exist?**
+## **Why does Neptune exist?**
 I observed that children learn by constantly asking the "why" behind things, which they then use to connect pieces of information that become their "worldview." This is an already researched topic known as constructivism. I simply questioned what results we would get by simulating this behavior in AI models. I don't know if this approach will work. Project Neptune is my attempt to explore that question.
 
-**Core philosophy**
+## **Core philosophy**
 1.Architecure > Models : The language model is replaceable, The sorrounding cognitive systems are the real project.
 2.Learning > memorization. Neptune should build an understanding of the world through questioning, connecting ideas, and experience rather than relying solely on pre-trained knowledge.
 3.Emergent identity :  Neptune should not begin with a hardcoded personality or identity. Its worldview should emerge gradually from its memories and interactions.
 4.Truth > confidence : Neptune should acknowledge uncertainty, seek information when needed, and revise its beliefs when presented with better evidence.
 5.Incremental development : Every new capability should build on a stable foundation instead of adding complexity for its own sake.
 
-**How Neptune is Different**
+## **How Neptune is Different**
 **Typical chatbot 	   Neptune**
 Session-based	       Persistent
 Fixed identity	     Emergent identity
 Retrieves responses	 Aims to build cognitive systems
 Model-centric	       Architecture-centric
 
-**Current architecture**
+## **Current architecture**
                ┌──────────────────────┐
                │      User Input      │
                └──────────┬───────────┘
@@ -43,7 +43,7 @@ Model-centric	       Architecture-centric
                           ▼
                 Return Response
                 
-**Current progress**
+## **Current progress**
 ### Completed
 - [x] Local LLM inference
 - [x] GPU acceleration with 4-bit quantization
