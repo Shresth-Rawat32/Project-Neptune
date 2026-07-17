@@ -101,8 +101,10 @@ Model-centric	       Architecture-centric
 - [ ] Improve scalability and performance
 - [ ] Continue experimenting with new cognitive systems
 
-**Repository structure**
-Neptune/
+## Repository Structure
+
+```text
+Project-Neptune/
 │
 ├── README.md
 ├── LICENSE
@@ -135,6 +137,6 @@ Neptune/
 └── assets/
     ├── architecture.png
     └── logo.png
+```
 
-**Current Status**
-Neptune is an active research project and is not yet ready for general use. The current focus is on building the architecture and documenting its development. Installation instructions and usage examples will be added as the project becomes more stable.
+> **Note:** This structure represents the planned organization of Project Neptune. The repository will be reorganized into this layout as the project documentation and architecture mature.
