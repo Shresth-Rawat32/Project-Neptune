@@ -16,11 +16,11 @@ I observed that children learn by constantly asking the "why" behind things, whi
 5.Incremental development : Every new capability should build on a stable foundation instead of adding complexity for its own sake.
 
 ## **How Neptune is Different**
-**Typical chatbot 	   Neptune**
-Session-based	       Persistent
-Fixed identity	     Emergent identity
-Retrieves responses	 Aims to build cognitive systems
-Model-centric	       Architecture-centric
+##**Typical chatbot 	   Neptune**
+##Session-based	       Persistent
+##Fixed identity	     Emergent identity
+##Retrieves responses	 Aims to build cognitive systems
+##Model-centric	       Architecture-centric
 
 ## **Current architecture**
                ┌──────────────────────┐
