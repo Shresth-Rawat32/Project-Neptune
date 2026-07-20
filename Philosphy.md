@@ -12,7 +12,7 @@ This question led me to educational theories such as constructivism, which descr
 
 Neptune is not a claim that this approach is correct, but rather an exploration driven by curiosity. Whether these ideas succeed or fail, the goal is to better understand what happens when learning, questioning, and long-term understanding become the focus of an AI system rather than simply generating the next response.
 
-##Intelligence is Built Through Architecture
+## Intelligence is Built Through Architecture
 
 Neptune isn't an attempt to build a better language model, but rather an attempt to explore whether intelligence emerges from the systems surrounding a model rather than the model itself.
 
